@@ -1,0 +1,6 @@
+deep-blue : #0D0D2B,
+text-primary: #2b076e,
+text-secondary: #828282,
+purple: #2B076E,
+light-blu: #3671E9,
+font-family: Rubik,

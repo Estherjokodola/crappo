@@ -698,6 +698,7 @@ ul {
   .footer ul {
     text-align: center;
     padding-bottom: 40px;
+    font-size: 0.6em;
   }
   .footer li:nth-of-type(1) {
     padding: 1em 0;
@@ -707,11 +708,12 @@ ul {
     width: 100%;
   }
   .footer .card-4 h1 {
-    font-size: 1.8em;
+    font-size: 1em;
     text-align: center;
   }
   .footer .card-4 img {
     margin-left: 40px;
+    width: 20%;
   }
   .footer .footer-sub-container {
     display: flex;
@@ -727,5 +729,42 @@ ul {
   }
   .icon-box {
     display: none;
+  }
+}
+@media screen and (min-width: 200px) and (max-width: 500px) {
+  .btn {
+    width: 100px;
+  }
+
+  .box {
+    width: 75%;
+  }
+  .section-1-container .text .btn {
+    margin-left: 90px;
+  }
+  .section-2 .boxes .btn {
+    margin-left: 60px;
+    width: 120px;
+  }
+  .section-3-box-2 {
+    margin-top: -450px;
+  }
+  .section-3-box-3 {
+    padding-top: 0.5em;
+    margin-top: 300px;
+    margin-bottom: 50px;
+  }
+  .section-3 .final-container .email {
+    border: none;
+    width: 200px;
+    height: 10px;
+
+    border-bottom: 1px solid #fff;
+    margin-left: -60px;
+    font-size: 1.1em;
+    padding: 0.5em 0em;
+  }
+  .card-4 .footer-box img {
+    width: 15%;
   }
 }

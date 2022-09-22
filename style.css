@@ -746,9 +746,13 @@ ul {
     margin-left: 60px;
     width: 120px;
   }
+  .section-2 .currency:hover.btn {
+    margin-left: 40px;
+  }
   .section-3-box-2 {
     margin-top: -450px;
   }
+
   .section-3-box-3 {
     padding-top: 0.5em;
     margin-top: 300px;

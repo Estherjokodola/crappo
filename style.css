@@ -746,8 +746,8 @@ ul {
     margin-left: 60px;
     width: 120px;
   }
-  .section-2 .currency:hover.btn {
-    margin-left: 60px;
+  .section-2 .currency .btn:hover {
+    margin-left: 80px;
   }
   .section-3-box-2 {
     margin-top: -450px;
